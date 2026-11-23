@@ -3,9 +3,9 @@
  halo! ini adalah repositary Github saya
 
  ## Tentang Saya
- _ Nama : Nama Mahasiswa
- _ Program Studi: Nama Program Studi
- _ Hobi : Hobi Mahasiswa
+ _ Nama : syifa aulia
+ _ Program Studi: sistem informasi
+ _ Hobi : jalan-jalan
 
  ## Tujuan
  Belajar menggunakan Git dan GitHub
